@@ -1,0 +1,199 @@
+
+  .icon-home:before {
+  content: "\e905";
+  color: #fff;
+  font-size:21px;
+}
+
+.icon-Heart .path1:before {
+  content: "\e903";
+  color: #9b83f1;
+  font-size: 27px;
+
+}
+.icon-Heart .path2:before {
+  content: "\e904";
+  color: #fff;
+  margin-left: -0.9716796875em;
+  font-size: 27px;
+}
+
+.icon-media-podcast .path1:before {
+  content: "\e907";
+  color: #004638;
+  font-size: 27px;
+
+}
+.icon-media-podcast .path2:before {
+  content: "\e908";
+  color: #159643; 
+  margin-left: -0.9716796875em;
+  font-size: 27px;
+}
+.icon-media-podcast .path3:before {
+  content: "\e909";
+  color: #159643;
+  margin-left: -0.9716796875em;
+  font-size: 27px;
+}
+.icon-media-podcast .path4:before {
+  content: "\e90a";
+  color: #159643;
+  margin-left: -0.9716796875em;
+  font-size: 27px;
+}
+
+.icon-search-white:before {
+  content: "\e90e";
+  color: #ffffff;
+  font-size: 21px;
+}
+.icon-search:before {
+  content: "\e986";
+  color:#0e0d0d;
+  font-size: 20px;
+}
+.icon-library:before {
+  content: "\e906";
+  color: #fff;
+  font-size: 21px;
+}
+
+.icon-Plus-small .path1:before {
+  content: "\e90b";
+  color: #fff;
+  font-size: 27px;
+}
+.icon-Plus-small .path2:before {
+  content: "\e90c";
+  color: #000;
+  margin-left: -0.9716796875em;
+  font-size: 27px;
+}
+
+.icon-radio-unchecked:before {
+  content: "\ea56";
+  color: white;
+}
+
+.icon-arrow-right:before {
+  content: "\e902";
+  color: #7b7b7b;
+}
+
+.icon-arrow-left:before {
+  content: "\e901";
+  color: white;
+}
+
+
+/*install icon*/
+.arrow-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.circular-ring {
+  position: relative;
+  width: 24px; 
+  height: 24px; 
+  background-color: transparent;
+  border: 2px solid white; 
+  border-radius: 50%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circular-ring span {
+  font-size: 14px; 
+  color:#fff; 
+  position: relative;
+  z-index: 1;
+}
+.inst{
+  display: flex;
+  align-items: center;
+  /*gap betweeen icon*/
+}
+.inapp{
+  margin-left:10px;
+}
+
+.icon-home:before{
+  margin-right: 6px;
+}
+.icon-search:before{
+  margin-right: 6px;
+}
+.icon-Plus-small{
+  margin-right: 6px;
+}
+.icon-Heart{
+  margin-right: 6px;
+}
+.icon-media-podcast{
+  margin-right: 6px;
+}
+.icon-library:before{
+  margin-right: 6px;
+}
+.icon-search-white:before{
+  margin-right: 6px;
+}
+.blocks{
+  cursor: pointer;
+}
+
+
+
+
+.icon-skip-forward:before {
+  content: "\e900";
+  color: #c4c4c4;
+  font-size: 29px;
+}
+
+.icon-skip-previous:before {
+  content: "\e90f";
+  color: #c4c4c4;
+  font-size: 29px;
+}
+
+.icon-play-1:before {
+  content: "\e910";
+  color: #fff;
+  font-size: 29px;
+}
+
+.icon-Heart1 .path1:before {
+  content: "\e911";
+  color: #3b3737;
+  font-size: 37px;
+}
+.icon-Heart1 .path2:before {
+  content: "\e912";
+  color: #f781f7;
+  margin-left: -0.9716796875em;
+  font-size: 47px;
+}
+
+.icon-repeat-all:before {
+  content: "\e914";
+  color: #c4c4c4;
+  font-size: 29px;
+}
+
+
+  
+
+
+
+.icon-shuffle:before {
+  content: "\e915";
+  color: #c4c4c4;
+  font-size: 29px;
+}
+
