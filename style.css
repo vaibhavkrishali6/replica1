@@ -155,7 +155,7 @@
    
     height:250px;
     width: 650px;
-    background-color:plum;
+    background-color: #8d67ab;
     padding-left: 20px;
     padding-top: 20px;
     border-radius:9px;
@@ -168,7 +168,7 @@
   
     height:250px;
     width: 650px;
-    background-color:rgb(235, 139, 101);
+    background-color:#ba5d07;
     padding-left: 20px;
     padding-top: 20px;
     border-radius:9px;
@@ -203,7 +203,7 @@
     margin-left: 10px;
     padding-left: 25px;
     padding-top: 20px;
-    background-color:rgb(96, 236, 178);
+    background-color: #27856a;
   }
   .madefu{
     border-radius: 6px;
@@ -213,7 +213,7 @@
     margin-left: 60px;
     padding-left: 25px;
     padding-top: 20px;
-    background-color:rgb(16, 129, 235);
+    background-color: #1e3264;
   }
   .charts{ 
     border-radius: 6px;
@@ -223,7 +223,7 @@
     margin-left: 60px;
     padding-left: 25px;
     padding-top: 20px;
-    background-color:rgb(180, 118, 180)
+    background-color:#8d67ab;
   }
   .newrel{
     border-radius: 6px;
@@ -233,10 +233,14 @@
     margin-left: 60px;
     padding-left: 20px;
     padding-top: 20px;
-    background-color:rgb(230, 42, 120);
+    background-color:#e8115b;
   }
   
-  
+  .content{
+    display: flex;
+    align-items:center;
+    
+  }
   
   
    /* last task to be completed*/
@@ -260,6 +264,7 @@
    .s-icon ul {
       list-style: none;
       font-size:15px;
+      display: flex;
       
     
      }
@@ -275,6 +280,7 @@
     .resize-me{
    width: 35px;
    height: 35px;
+   padding-top: 60px;
   
     }
   
@@ -282,14 +288,22 @@
   .resizeme{
     height: 30px;
     width: 30px;
+    margin-left: 10px;
   
 }
+
+
+ 
+
+
   
     .button{
         padding: 10px;
         margin-left: 350px;
         align-items: center;
         align-self: center;
+         
+  
     }
   .pink{
     height: 20px;
