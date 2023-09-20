@@ -260,6 +260,7 @@
    .s-icon ul {
       list-style: none;
       font-size:15px;
+      
     
      }
     .heart{
@@ -268,18 +269,21 @@
       margin-right: 70px;
       display: flex;
      flex-direction: row;
+     padding-left: 70px;
     }
   
     .resize-me{
-   width: 27px;
-   height: 27px;
+   width: 35px;
+   height: 35px;
   
     }
   
   
   .resizeme{
     height: 30px;
-    width: 30px;}
+    width: 30px;
+  
+}
   
     .button{
         padding: 10px;
@@ -295,8 +299,9 @@
   .text{
     display: flex;
     flex-direction: column;
+    margin-left: 150px;
+    padding-bottom: 60px;
   }
-
 
 
 
